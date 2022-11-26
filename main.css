@@ -2,6 +2,13 @@ body {
     background-color: rgb(14, 21, 27);
 }
 
-p1 {
+h1 {
     color: rgb(236, 129, 29);
+    text-align: center;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+title {
+    
 }
