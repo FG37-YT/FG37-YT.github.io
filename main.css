@@ -1,3 +1,8 @@
+@fonts-face {
+    src: url(fonts/Raleway-SemiBold.ttf);
+    font-family: raleway;
+}
+
 body {
     background-color: rgb(14, 21, 27);
 }
@@ -5,10 +10,5 @@ body {
 h1 {
     color: rgb(236, 129, 29);
     text-align: center;
-    font-family: monospace;
-    font-weight: bolder;
-}
-
-title {
-    
+    font-family: raleway;
 }
