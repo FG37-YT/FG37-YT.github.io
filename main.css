@@ -1,6 +1,6 @@
 @font-face {
-    src: url(https://fg37-yt.github.io/fonts/Raleway-SemiBold.ttf);
-    font-family: raleway;
+    src: url(https://fg37-yt.github.io/fonts/Raleway-ExtraBold.ttf);
+    font-family: ralewayTitle;
 }
 
 body {
@@ -10,5 +10,5 @@ body {
 h1 {
     color: rgb(236, 129, 29);
     text-align: center;
-    font-family: raleway;
+    font-family: ralewayTitle;
 }
